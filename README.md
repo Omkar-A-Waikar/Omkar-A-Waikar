@@ -18,7 +18,7 @@ Graduate Computer Science Student at New York University
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake.svg" />
 </picture>
 
 # GitHub Stats:
