@@ -16,8 +16,8 @@ Graduate Computer Science Student at New York University
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake.svg" />
 </picture>
 
